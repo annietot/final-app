@@ -1,7 +1,6 @@
 
 body{
-	background-color: pink
-	color: blue;
+	background-image: linear-gradient(to right, rgba(247, 93, 89, 1.2), yellow, rgba(247, 93, 89, 1.2));
 }
 
 button{
@@ -35,6 +34,5 @@ ul li{
 }
 
 body{
-	background-color: pink
-	color: blue;
+	background-image: linear-gradient(to right, rgba(247, 93, 89, 1.2), yellow, rgba(247, 93, 89, 1.2));
 }
